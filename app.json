@@ -1,4 +1,8 @@
 {
   "name": "mini-lms-expo-app",
-  "slug": "mini-lms-expo-app"
+  "slug": "mini-lms-expo-app",
+  "plugins": [
+    "expo-secure-store",
+    "expo-image"
+  ]
 }
