@@ -1,0 +1,11 @@
+{
+  "compilerOptions": {
+    "strict": true,
+    "baseUrl": "."
+  },
+  "include": [
+    "app",
+    "src"
+  ],
+  "extends": "expo/tsconfig.base"
+}
